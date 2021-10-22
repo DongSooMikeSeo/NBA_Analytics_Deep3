@@ -15,4 +15,6 @@ and efficiency, especially focusing on "deep three" (three point made behind 28 
 
 we are going to use NBA_API, which you can find the source code here in mode details.
 https://github.com/swar/nba_api
-  
+ 
+Let's dive into the project!
+https://github.com/DongSooMikeSeo/NBA_Analytics_Deep3/blob/master/DeepThree.ipynb
